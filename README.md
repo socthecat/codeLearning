@@ -1,13 +1,13 @@
-# Functional programming quest in JS
+# Immerse yourself into the world of Functional Hell 👿🔥
 
-Learn how to make thing in JS using **functional programming** in JavaScript with this web-quest, that tell us a story of 'functional hell'.
+Learn the basics of **functional programming** with this breathtaking, immersive JavaScript web-quest with an actual storyline that will blow your mind.
 
-You can also try to complete this quests:
-+ [WEB version](https://someReference)
+You can try it out right now:
++ [WEB-version](http://functional-hell.herokuapp.com/)
 
 ## Requirements
 
-to run this project you need to have this things:
+To run this project locally, you'll need the following things installed:
 + [Node.js](https://nodejs.org/)
 + [React](https://facebook.github.io/react/)
 
@@ -17,9 +17,9 @@ to run this project you need to have this things:
     npm install
     npm start
 
-## Usage
+## Gallery
 
-some photos...
+![main page](https://i.imgur.com/tWTRvwi.png)
 
 ## Contributors
 PifagorRZ - https://github.com/PifagorRZ
@@ -31,4 +31,5 @@ DoctorLapen - https://github.com/DoctorLapen
 socthecat - https://github.com/socthecat
 
 ## License 
-...
+
+What's a license?
